@@ -1,0 +1,9 @@
+1. Processors: These are the number of virtual CPUs(logical processors) present, numbered from 0 also known as threads, 
+	Core: Number of physical CPU capable of independent processing, two threads can share same resources in a given core.
+2.	a. My system has 1 CPU socket numbered 0, 6[0-5] Cores and 12[0-11] processors, i.e. 2 threads per core.
+	b. The frequency for each CPU is 2994.364MHz
+	c. Total available memory :3607.7MiB out of which 3165.5MiB is free and 261.1MiB is used
+	d. User level processes: 2
+	e. Number of forks since boot: 458
+	f. Voluntary context switches 67
+  
